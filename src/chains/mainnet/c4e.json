@@ -1,0 +1,19 @@
+{
+    "chain_name": "C4E",
+    "api": ["https://api-c4e.nodine.id"],
+    "rpc": ["https://rpc-c4e.nodine.id"],
+    "snapshot_provider": "",
+    "sdk_version": "v0.45.9",
+    "coin_type": "4444",
+    "min_tx_fee": "0.025",
+    "addr_prefix": "plq",
+    "logo": "/logos/c4e.png",
+    "keplr_features": ["ibc-transfer", "ibc-go"],
+    "assets": [{
+        "base": "C4E",
+        "symbol": "uc4e",
+        "exponent": "6",
+        "coingecko_id": "unknown",
+        "logo": "/logos/c4e.png"
+    }]
+}

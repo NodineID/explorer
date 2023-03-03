@@ -1,0 +1,17 @@
+{
+    "chain_name": "bluzelle",
+    "api": ["https://bluzelle-api.genznodes.dev"],
+    "rpc": ["https://bluzelle-rpc.genznodes.dev"],
+    "sdk_version": "0.44.3",
+    "coin_type": "483",
+    "min_tx_fee": "200",
+    "addr_prefix": "bluzelle",
+    "logo": "/logos/blz.jpg",
+    "assets": [{
+        "base": "ubnt",
+        "symbol": "BNT",
+        "exponent": "6",
+        "coingecko_id": "bluzelle", 
+        "logo": "/logos/blz.jpg"
+    }]
+}

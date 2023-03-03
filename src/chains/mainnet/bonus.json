@@ -1,0 +1,19 @@
+{
+    "chain_name": "BlockBonus",
+    "api": ["https://api-bblock.nodine.id"],
+    "rpc": ["https://rpc-bblock.nodine.id"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.11",
+    "coin_type": "118",
+    "min_tx_fee": "5000000000000000",
+    "addr_prefix": "bonus",
+    "logo": "https://explorer.sxlzptprjkt.xyz/logos/bonusblock.png",
+    "keplr_features": [],
+    "assets": [{
+        "base": "ubonus",
+        "symbol": "bonus",
+        "exponent": "6",
+        "coingecko_id": "bonus",
+        "logo": "https://explorer.sxlzptprjkt.xyz/logos/bonusblock.png"
+    }]
+}

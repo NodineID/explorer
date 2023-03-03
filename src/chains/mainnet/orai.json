@@ -1,0 +1,17 @@
+{
+    "chain_name": "ORAI",
+    "api": ["https://api-orai.nodine.id/"],
+    "rpc": ["https://rpc-orai.nodine.id/"],
+    "sdk_version": "v0.45.12",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "bluzelle",
+    "logo": "/logos/orai.jpg",
+    "assets": [{
+        "base": "oraid",
+        "symbol": "orai",
+        "exponent": "6",
+        "coingecko_id": "oraichain-token", 
+        "logo": "/logos/orai.jpg"
+    }]
+}

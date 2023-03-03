@@ -1,0 +1,19 @@
+{
+    "chain_name": "omniflix",
+    "coingecko": "",
+    "api": ["https://api-omni.nodine.id/","https://omniflixhub-api.skynetvalidators.com"],
+    "rpc": ["https://rpc-omni.nodine.id/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.1",
+    "coin_type": "118",
+    "min_tx_fee": "3000",
+    "addr_prefix": "omniflix",
+    "logo": "https://raw.githubusercontent.com/ping-pub/explorer/master/public/logos/omniflix.png",
+    "assets": [{
+        "base": "uflix",
+        "symbol": "FLIX",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "https://raw.githubusercontent.com/ping-pub/explorer/master/public/logos/omniflix.png"
+    }]
+}

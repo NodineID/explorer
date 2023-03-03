@@ -4,10 +4,8 @@
     <b-link>
       <div class="d-flex justify-content-center align-items-center p-1">
         <vuexy-logo />
-        <h1
-          class="text-primary display-4 font-weight-bolder d-none d-md-block ml-1"
-        >
-          Ping Dashboard<small class="flow-left">Beta</small>
+        <h1 class="text-primary display-4 font-weight-bolder d-none d-md-block ml-1" >
+        Explorer<small class="flow-left"></small>
         </h1>
       </div>
     </b-link>

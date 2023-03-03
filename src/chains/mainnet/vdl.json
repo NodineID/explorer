@@ -1,0 +1,19 @@
+{
+    "chain_name": "vidulum",
+    "coingecko": "vidulum",
+    "api": ["https://api-vdl.nodine.id", "https://api-vidulum-ia.cosmosia.notional.ventures"],
+    "rpc": ["https://rpc-vdl.nodine.id", "https://rpc-vidulum-ia.cosmosia.notional.ventures:443"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.9",
+    "coin_type": "370",
+    "min_tx_fee": "8000",
+    "addr_prefix": "vdl",
+    "logo": "https://raw.githubusercontent.com/ping-pub/explorer/master/public/logos/VDL.png",
+    "assets": [{
+        "base": "uvdl",
+        "symbol": "VDL",
+        "exponent": "6",
+        "coingecko_id": "vidulum", 
+        "logo": "https://raw.githubusercontent.com/ping-pub/explorer/master/public/logos/VDL.png"
+    }]
+  }

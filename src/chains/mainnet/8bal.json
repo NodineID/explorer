@@ -1,0 +1,24 @@
+{
+    "chain_name": "8ball",
+    "coingecko": "",
+    "api": [
+        "https://api-8ball.nodine.id/"
+    ],
+    "rpc": [
+        "https://rpc-8ball.nodine.id"
+    ],
+    "snapshot_provider": "",
+    "coin_type": "118",
+    "sdk_version": "0.46.8",
+    "addr_prefix": "8ball",
+    "logo": "https://raw.githubusercontent.com/ping-pub/explorer/master/public/logos/8ball.png",
+    "assets": [
+        {
+            "base": "uebl",
+            "symbol": "EBL",
+            "exponent": "6",
+            "coingecko_id": "",
+            "logo": "https://raw.githubusercontent.com/ping-pub/explorer/master/public/logos/8ball.png"
+        }
+    ]
+}

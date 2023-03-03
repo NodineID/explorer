@@ -1,0 +1,20 @@
+{
+    "chain_name": "echelon",
+    "coingecko": "echelon",
+    "api": ["https://api.ech.network"],
+    "rpc": ["https://rpc-echond.nodine.id,https://tendermint.ech.network:443,https://rpc-echelon.whispernode.com:443,https://rpc.echelon.nodestake.top:443,https://echelon-rpc.polkachu.com:443,https://rpc.eu.ech.world:443,https://rpc.us.ech.world:443"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.1",
+    "coin_type": "60",
+    "min_tx_fee": "3000000000000000",
+    "addr_prefix": "echelon",
+    "logo": "/logos/ech.png",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "aechelon",
+        "symbol": "ECH",
+        "exponent": "18",
+        "coingecko_id": "echelon", 
+        "logo": "/logos/ech.png"
+    }]
+}

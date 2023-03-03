@@ -19,19 +19,14 @@ function processMenu() {
       title: 'blockchains',
       children: blockchains,
       tag: `${blockchains.length}`,
-      icon: 'https://ping.pub/logo.svg',
+      icon: 'https://logos-download.com/wp-content/uploads/2019/01/Cosmos_Logo.png',
     })
   }
   chainMenus.push({ header: 'sponsors' })
   chainMenus.push({
-    title: 'Becole',
-    href: 'https://becole.com',
-    logo: 'https://becole.com/static/logo/logo_becole.png',
-  })
-  chainMenus.push({
-    title: 'Osmosis',
-    href: 'https://app.osmosis.zone',
-    logo: 'https://ping.pub/logos/osmosis.jpg',
+    title: 'Blog Nodine',
+    href: 'https://blog.nodine.id',
+    logo: 'https://nodine.id/logo.png',
   })
   chainMenus.push({ header: 'LINKS' })
   if (isTestnet()) {
@@ -42,14 +37,14 @@ function processMenu() {
     })
   } else {
     chainMenus.push({
-      title: 'Testnet Explorer',
-      href: 'http://testnet.ping.pub',
+      title: 'Library',
+      href: 'http://libs.nodine.id',
       icon: 'LifeBuoyIcon',
     })
   }
   chainMenus.push({
     title: 'Twitter',
-    href: 'https://twitter.com/ping_pub',
+    href: 'https://twitter.com/nodine_id',
     icon: 'TwitterIcon',
   })
   chainMenus.push({
@@ -59,7 +54,7 @@ function processMenu() {
   })
   chainMenus.push({
     title: 'Github',
-    href: 'https://github.com/ping-pub/explorer',
+    href: 'https://github.com/nodineid',
     icon: 'GithubIcon',
   })
 

@@ -1,7 +1,7 @@
 {
     "chain_name": "planq",
-    "api": ["https://planq-api.polkachu.com", "https://rest.planq.network", "https://api-planq.comunitynode.my.id", "https://planq-api.enodex.lol", "https://api.planq.nodestake.top"],
-    "rpc": ["https://planq-rpc.polkachu.com", "https://rpc.planq.network", "https://rpc-planq.comunitynode.my.id", "https://planq-rpc.enodex.lol", "https://rpc.planq.nodestake.top"],
+    "api": ["https://api-planq.nodine.id", "https://rest.planq.network"],
+    "rpc": ["https://rpc-planq.nodine.id", "https://rpc.planq.network"],
     "snapshot_provider": "",
     "sdk_version": "0.46.3",
     "coin_type": "60",
