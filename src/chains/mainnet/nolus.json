@@ -1,18 +1,18 @@
 {
     "chain_name": "NOLUS",
-    "api": ["https://api-nolus.explorer.co.id", "https://net-rila.nolus.io:1317"],
-    "rpc": ["https://rpc-nolus.explorer.co.id", "https://net-rila.nolus.io:26657"],
+    "api": ["https://rest.nolus.nodexcapital.com"],
+    "rpc": ["https://rpc.nolus.nodexcapital.com"],
     "snapshot_provider": "",
-    "sdk_version": "0.45.6",
+    "sdk_version": "0.45.15",
     "coin_type": "118",
     "min_tx_fee": "5000",
     "addr_prefix": "nolus",
-    "logo": "https://raw.githubusercontent.com/nodexcapital/explorer/master/public/logos/nolus.png",
+    "logo": "nolus.png",
     "assets": [{
         "base": "unls",
         "symbol": "NOLUS",
         "exponent": "6",
         "coingecko_id": "",
-        "logo": "https://raw.githubusercontent.com/nodexcapital/explorer/master/public/logos/nolus.png"
+        "logo": "nolus.png"
     }]
 }
